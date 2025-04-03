@@ -31,7 +31,7 @@
 	],
 	"dependencies": {
 		"@types/d3-time-format": "^2.3.4",
-		"@wordpress/date": "wp-6.6",
+		"@wordpress/date": "5.19.1",
 		"@wordpress/i18n": "wp-6.6",
 		"moment": "^2.29.4",
 		"moment-timezone": "^0.5.43",
