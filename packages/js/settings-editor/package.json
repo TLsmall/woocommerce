@@ -50,7 +50,7 @@
 		"@wordpress/date": "wp-6.6",
 		"@wordpress/deprecated": "wp-6.6",
 		"@wordpress/edit-post": "wp-6.6",
-		"@wordpress/editor": "wp-6.6",
+		"@wordpress/editor": "14.11.0",
 		"@wordpress/element": "wp-6.6",
 		"@wordpress/hooks": "wp-6.6",
 		"@wordpress/html-entities": "wp-6.6",
