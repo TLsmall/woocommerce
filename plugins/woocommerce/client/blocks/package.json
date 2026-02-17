@@ -275,7 +275,7 @@
 		"@wordpress/style-engine": "^1.30.0",
 		"@wordpress/url": "3.13.0",
 		"@wordpress/wordcount": "wp-6.6",
-		"ajv": "^8.17.1",
+		"ajv": "^8.18.0",
 		"ajv-errors": "^3.0.0",
 		"ajv-formats": "^3.0.1",
 		"change-case": "^4.1.2",
